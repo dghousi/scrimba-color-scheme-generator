@@ -26,7 +26,7 @@ Users are allowed to:
 
 ### Links
 
-- Live Site URL: [Color Scheme Generator](https://dghousi.github.io/)
+- Live Site URL: [Color Scheme Generator](https://soft-gelato-801e35.netlify.app)
 
 ## Process
 
